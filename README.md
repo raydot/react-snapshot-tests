@@ -1,3 +1,13 @@
+Following [tutorial](https://www.digitalocean.com/community/tutorials/how-to-write-snapshot-tests-for-react-components-with-jest) on snapshot testing by John Kariuki.
+
+
+Notes:
+
+Installed [reactTestRemderer@16.13.1](https://www.npmjs.com/package/react-test-renderer).  According to [react](https://reactjs.org/docs/test-renderer.html), "This package provides a React renderer that can be used to render React component to pure JavaScript objects, without depending on the DOM or a native mobile environment.  Exxentially, this package makes it easy to grab a snapshot of the [platform view hierarchy](https://www.youtube.com/watch?v=69voL-1XDYw) rendered by React DOM or a React Native component without using a browser or [jsdom](https://github.com/jsdom/jsdom).  
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
